@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 本仓库不接受 Issues
+    url: https://blog.xxtg666.top/
+    about: Issues 只是用来给Gitalk做评论用的……
+  - name: This repository does not accept Issues
+    url: https://blog.xxtg666.top/
+    about: Issues is only used for Gitalk's comments ......
