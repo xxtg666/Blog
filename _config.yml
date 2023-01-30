@@ -103,3 +103,13 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+plugins:
+  gitalk:
+    clientID: 0c3f9b070c89947576f5
+    clientSecret: 89d118f4711113f5b3697664b6d98e02667ce84c
+    repo: Blog
+    owner: xxtg666
+    admin:
+      - xxtg666
+    distractionFreeMode: false
