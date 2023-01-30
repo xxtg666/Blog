@@ -112,4 +112,5 @@ plugins:
     owner: xxtg666
     admin:
       - xxtg666
+      - xxtg666-Bot
     distractionFreeMode: false
